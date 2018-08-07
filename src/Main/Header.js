@@ -9,6 +9,7 @@ class Header extends Component{
           <ul>
             <li><Link to="/hello"> Hello Home</Link></li>
             <li><Link to="/Register/Register"> Register</Link></li>
+            <li><Link to="/login">Signin</Link></li>
           </ul>
         </nav>
       </header>
